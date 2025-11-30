@@ -13,9 +13,9 @@ Welcome to my personal portfolio! I’m a high school junior passionate about co
 - Soft Skills: Leadership, Teamwork, Problem-solving
 
 ## Projects
-1. **Personal Website** – Built using GitHub Pages (HTML/CSS)
+1. **Personal Website** – Built using GitHub Pages (HTML/CSS). Just like here!
 2. **Python Calculator** – Created a calculator app using Python
-3. **JavaScript Game** – Developed a small browser game
+3. **JavaScript Game** – Developed a small browser game with CodeHS
 
 ## Contact
 - Email: et7133embar@gmail.com
